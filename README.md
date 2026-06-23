@@ -96,3 +96,6 @@ disponíveis na plataforma.
     temporária.
 -   O sistema deve exibir mensagem adequada quando não existirem dados
     cadastrados.
+
+    <img width="386" height="805" alt="image" src="https://github.com/user-attachments/assets/684d0d88-ee83-4f6a-bcec-eb051b13cecd" />
+
