@@ -11,7 +11,7 @@ realizar pesquisas ou consultas mais específicas.
 ## Objetivo
 
 Exibir informações atualizadas e resumidas de cursos e instituições
-disponíveis na plataforma.
+disponíveis na plataforma. 
 
 ## Ator Principal
 
