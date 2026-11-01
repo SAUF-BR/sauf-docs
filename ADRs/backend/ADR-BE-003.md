@@ -3,7 +3,6 @@
 - Status: aceito
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-17 (Flyway desde 2026-10-06; V1 consolidada em 2026-10-09)
-- História Técnica: D-08 e D-52 do `docs/DECISOES.md` do `sauf-api`
 
 ## Contexto e Declaração do Problema
 

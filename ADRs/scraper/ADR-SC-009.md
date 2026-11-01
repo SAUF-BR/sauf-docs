@@ -3,7 +3,6 @@
 - Status: aceito
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-26
-- História Técnica: `scraper/02-guia-spider-uem.md`, `scraper/05-prototipo-x-dados.md`, `scraper/06-plano-scraper-geral.md`, `scraper/10-fase-c-endereco.md`, `scraper/11-avaliacao-ies.md`; pasta `lgpd/` do projeto; commits TR-262
 
 ## Contexto e Declaração do Problema
 

@@ -3,7 +3,6 @@
 - Status: aceito
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-17
-- História Técnica: D-28 (substituída em parte), D-52 e escolha "H2 só em teste" de 09/10/2026 no `sauf-api`
 
 ## Contexto e Declaração do Problema
 

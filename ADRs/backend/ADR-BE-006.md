@@ -3,7 +3,6 @@
 - Status: aceito (tabela de nomes amigáveis ainda não criada)
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-08
-- História Técnica: D-18, D-31, D-36 do `docs/DECISOES.md` do `sauf-api`; P-05 em aberto
 
 ## Contexto e Declaração do Problema
 

@@ -3,7 +3,6 @@
 - Status: aceito
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-05
-- História Técnica: contexto consolidado §3.1 a §3.3; `scraper/01-analise-e-proposta.md` (seção 1)
 
 ## Contexto e Declaração do Problema
 

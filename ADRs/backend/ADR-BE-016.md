@@ -3,7 +3,6 @@
 - Status: proposto
 - Decisores: a definir pelo time
 - Data: 2026-10-31
-- História Técnica: estudo de mercado SAUF.BR (slides 9, 13 e 14); [ADR-BE-013](ADR-BE-013.md); D-54, D-55, D-57 e P-14 do `sauf-api/docs/DECISOES.md`
 
 ## Contexto e Declaração do Problema
 

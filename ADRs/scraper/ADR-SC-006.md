@@ -3,7 +3,6 @@
 - Status: aceito
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-08
-- História Técnica: D-32 (substituída), D-34, D-35 do `docs/DECISOES.md` do `sauf-api`; `scraper/04-casamento-uem.md`
 
 ## Contexto e Declaração do Problema
 

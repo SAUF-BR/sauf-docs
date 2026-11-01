@@ -3,7 +3,6 @@
 - Status: aceito
 - Decisores: Karen
 - Data: 2026-10-31
-- História Técnica: D-28 do `docs/DECISOES.md`; [ADR-BE-004](ADR-BE-004.md)
 
 ## Contexto e Declaração do Problema
 

@@ -3,7 +3,6 @@
 - Status: aceito
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-08
-- História Técnica: D-23, D-34, D-35 do `docs/DECISOES.md` do `sauf-api`; `scraper/01-analise-e-proposta.md` (seção 2.2); `scraper/03-scraper-x-api.md`
 
 ## Contexto e Declaração do Problema
 

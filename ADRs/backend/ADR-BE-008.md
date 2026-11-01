@@ -3,7 +3,6 @@
 - Status: aceito (autenticação por X-Api-Key aguarda confirmação formal, P-06; inativação provisória, P-26)
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-08
-- História Técnica: D-27, D-48 e seção 3 do `docs/DECISOES.md` do `sauf-api`; P-06, P-26
 
 ## Contexto e Declaração do Problema
 

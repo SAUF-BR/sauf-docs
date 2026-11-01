@@ -3,7 +3,6 @@
 - Status: aceito
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-05
-- História Técnica: `scraper/01-analise-e-proposta.md` (seção 3); `scraper/02-guia-spider-uem.md`; `sauf-scraper/docs/ESTRUTURA.md`
 
 ## Contexto e Declaração do Problema
 

@@ -3,7 +3,6 @@
 - Status: proposto
 - Decisores: Karen
 - Data: 2026-10-31
-- História Técnica: [ADR-BE-012](ADR-BE-012.md)
 
 ## Contexto e Declaração do Problema
 

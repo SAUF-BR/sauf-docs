@@ -3,7 +3,6 @@
 - Status: aceito (formato provisório, D-37)
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-09
-- História Técnica: D-37, D-46, D-47 do `docs/DECISOES.md` do `sauf-api`; migration `V2__mercado_trabalho`
 
 ## Contexto e Declaração do Problema
 

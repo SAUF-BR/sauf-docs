@@ -3,7 +3,6 @@
 - Status: aceito (pagamento simulado até existir gateway, P-14)
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-21
-- História Técnica: D-54, D-56, D-57 do `docs/DECISOES.md` do `sauf-api`; branch `TR-282-tela-assinaturas`
 
 ## Contexto e Declaração do Problema
 

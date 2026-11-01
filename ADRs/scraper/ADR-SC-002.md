@@ -3,7 +3,6 @@
 - Status: aceito
 - Decisores: Carlos Eduardo Souza Favarão
 - Data: 2026-10-05
-- História Técnica: `scraper/01-analise-e-proposta.md` (seções 1, 2.4 e 3); `scraper/03-scraper-x-api.md`
 
 ## Contexto e Declaração do Problema
 

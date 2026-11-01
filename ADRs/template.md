@@ -3,7 +3,6 @@
 - Status: proposto | aceito | rejeitado | substituído por [ADR-YYY](ADR-YYY.md)
 - Decisores: quem decidiu
 - Data: AAAA-MM-DD
-- História Técnica: ticket (TR-xxx), decisão do `DECISOES.md` (D-xx) ou documento de origem (opcional)
 
 ## Contexto e Declaração do Problema
 
