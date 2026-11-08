@@ -65,6 +65,7 @@ Cada ADR registra **uma** decisão: o contexto, as opções avaliadas, a escolha
 | [ADR-SC-007](scraper/ADR-SC-007.md) | Importadores gerais leem um arquivo oficial baixado à mão | aceito |
 | [ADR-SC-008](scraper/ADR-SC-008.md) | Textos "Sobre" e "Mercado de Trabalho" como texto puro, com reconhecimento de títulos | aceito (formato provisório, D-37) |
 | [ADR-SC-009](scraper/ADR-SC-009.md) | LGPD no scraper: não coletar dados pessoais e versionar fixtures anonimizadas | aceito |
+| [ADR-SC-010](scraper/ADR-SC-010.md) | Questões do ENEM no MVP vêm do dataset maritaca-ai/enem, cruzado com os microdados do INEP | aceito |
 
 ## Questões em aberto
 
